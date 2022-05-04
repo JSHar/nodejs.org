@@ -11,86 +11,86 @@
   "getHelpIssue": "დახმარება",
   "by": "მიერ",
   "all-downloads": "ჩამოტვირთვის ყველა ვარიანტი",
-  "nightly": "Ночные сборки",
-  "unofficial-builds": "Неофициальные сборки",
-  "previous": "Предыдущий",
-  "next": "Следующий",
+  "nightly": "ბნელი თემა",
+  "unofficial-builds": "არაოფიციალური ნაკრები",
+  "previous": "წინა",
+  "next": "მომდევნო",
   "feeds": [
     {
       "link": "feed/blog.xml",
-      "text": "Блог Node.js"
+      "text": "ბლოგი Node.js"
     },
     {
       "link": "feed/releases.xml",
-      "text": "Блог Node.js: Релизы"
+      "text": "ბლოგი Node.js: რელიზები"
     },
     {
       "link": "feed/vulnerability.xml",
-      "text": "Блог Node.js: Отчеты об уязвимостях"
+      "text": "ბლოგი Node.js: რეპორტები დაუცველობაზე"
     }
   ],
   "home": {
-    "text": "Главная"
+    "text": "მთავარი"
   },
   "about": {
     "link": "about",
-    "text": "О проекте",
+    "text": "ჩვენ შესახებ",
     "governance": {
       "link": "about/governance",
-      "text": "Управление"
+      "text": "მართვა"
     },
     "community": {
       "link": "about/community",
-      "text": "Сообщество"
+      "text": "ქომუნითი"
     },
     "workinggroups": {
       "link": "about/working-groups",
-      "text": "Рабочие группы"
+      "text": "სამუშაო ჯგუფები"
     },
     "releases": {
       "link": "about/releases",
-      "text": "Релизы"
+      "text": "რელიზები"
     },
     "resources": {
       "link": "about/resources",
-      "text": "Ресурсы"
+      "text": "რესურსები"
     },
     "trademark": {
       "link": "about/trademark",
-      "text": "Товарный знак"
+      "text": "სავაჭრო ნიშანი"
     },
     "privacy": {
       "link": "about/privacy",
-      "text": "Политика приватности"
+      "text": "კონფიდენციალურობის პოლიტიკა"
     }
   },
   "download": {
     "link": "download",
-    "text": "Загрузка",
+    "text": "ჩამოტვირთვა",
     "releases": {
       "link": "download/releases",
-      "text": "Предыдущие релизы"
+      "text": "წინა რელიზები"
     },
     "package-manager": {
       "link": "download/package-manager",
-      "text": "Установка Node.js с помощью пакетного менеджера"
+      "text": "Node.js-ის ინსტალაცია პაკეტ მენეჯერის გამოყენებით"
     },
     "shasums": {
       "link": "SHASUMS256.txt.asc",
-      "text": "Подписанные SHASUMS для файлов релиза",
+      "text": "ხელმოწერილია SHASUMS-ის მიერ რელიზ ფაილებისთვის",
       "verify-link": "https://github.com/nodejs/node#verifying-binaries",
-      "verify-text": "Как проверить"
+      "verify-text": "როგორ შევამოწმოთ"
     },
     "install-on-linux": {
-      "text": "Установка Node.js через бинарный архив в Linux"
+      "text": "Node.js-ის ინსტალაცია ბინარული არქივის მეშვეობით Linux-ზე"
     }
   },
   "docs": {
     "link": "docs",
-    "text": "Документация",
+    "text": "დოკუმენტაცია",
     "es6": {
       "link": "docs/es6",
-      "text": "ES6 и выше"
+      "text": "ES6 და ზემოთ"
     },
     "api-lts": {
       "link": "https://nodejs.org/dist/latest-%ver-major%/docs/api/",
@@ -103,52 +103,52 @@
     },
     "guides": {
       "link": "docs/guides",
-      "text": "Руководства"
+      "text": "გიდები"
     },
     "dependencies": {
       "link": "docs/meta/topics/dependencies",
-      "text": "Зависимости"
+      "text": "დამოკიდებულებები"
     }
   },
   "getinvolved": {
     "link": "get-involved",
-    "text": "Присоединиться",
+    "text": "შემოგვიერთდი",
     "code-and-learn": {
       "link": "get-involved/code-and-learn",
-      "text": "Разрабатывай + Учись"
+      "text": "შექმენი + ისწავლე"
     },
     "collab-summit": {
       "link": "get-involved/collab-summit",
-      "text": "Саммит сотрудников"
+      "text": "თანამშრომლების სამიტი"
     },
     "contribute": {
       "link": "get-involved/contribute",
-      "text": "Участие"
+      "text": "მონაწილეობა"
     },
     "conduct": {
       "link": "https://github.com/nodejs/node/blob/master/doc/guides/contributing/code-of-conduct.md",
-      "text": "Правила"
+      "text": "წესები"
     },
     "node-meetups": {
       "link": "get-involved/node-meetups",
-      "text": "Встречи Node.js"
+      "text": "Node.js შეხვედრები"
     }
   },
   "security": {
     "link": "https://github.com/nodejs/node/blob/HEAD/SECURITY.md#security",
-    "text": "Безопасность"
+    "text": "უსაფრთხოება"
   },
   "blog": {
     "link": "blog",
-    "text": "Новости"
+    "text": "სიახლეები"
   },
   "releases": {
     "title": "История релизов",
-    "downloads": "Загрузки"
+    "downloads": "ჩამოტვირთვები"
   },
   "links": {
     "pages": {
-      "changelog": "Список изменений"
+      "changelog": "ცვლილებების სია"
     }
   }
 }
